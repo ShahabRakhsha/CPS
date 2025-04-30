@@ -5,7 +5,7 @@
 #define WATER_MOTOR_PIN 9
 #define SERVO_PIN 10
 
-#define EDGE_NODE_ADDRESS 0x10  
+#define EDGE_NODE_ADDRESS 0x11  
 
 Servo potServo;
 
